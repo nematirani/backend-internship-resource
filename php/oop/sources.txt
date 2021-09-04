@@ -1,0 +1,8 @@
+OOP:
+https://github.com/marcelgsantos/learning-oop-in-php
+https://github.com/20jam/php-oop
+https://www.amazon.com/dp/B01NCNPV3M/
+Solid:
+https://github.com/wataridori/solid-php-example
+https://github.com/victorrentea/clean-code-php
+https://refactoring.guru
