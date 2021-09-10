@@ -1,4 +1,4 @@
-# Elephant project
+# 🐘 The Elephant project
 
 This project is defined to wrap up `PHP/OOP/Test` skills. Probably you're familiar with [URL shortening](https://en.wikipedia.org/wiki/URL_shortening) already.
 
@@ -11,7 +11,7 @@ Try to deliver a **clean**, **testable**, and **well-designed** code as much as 
 - Use PHPUnit for test purposes
 - Write a short README file and describe how did you do this project
 
-> Feel free to use any third-part package, but consider testability in choosing third-parties
+> Feel free to use any third-part package, but consider your design principles and testability in choosing third-parties
 
 ## Persistence
 Consider any persistence way you like, but it should be interchangeable with other ways, for example, If you gonna save the data on SQLite, it should be interchangeable with a file and your design must support interchangeability for the persistence layer
