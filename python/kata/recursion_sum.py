@@ -1,4 +1,4 @@
-def sum(collection):
+def sum(numbers):
     """ Write a code to sum numbers of list
     Note: Use recursion """
 
