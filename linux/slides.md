@@ -535,6 +535,9 @@ class: center, middle
 class: center, middle
 
 # Linux is friendly
+
+--
+
 ## Though too selective about its friends
 ### Happy linux-ing
 
