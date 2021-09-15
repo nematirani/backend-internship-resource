@@ -422,8 +422,7 @@ class: two-columns
   - Take the following as an example:
 
 ```sh
-tail -f /var/log/syslog | grep -F 'CRON' /var/log/syslog \
-                        | cut -d'(' -f3 | cut -d')' -f1
+tail -f /var/log/syslog | grep -F 'CRON' | cut -d'(' -f3 | cut -d')' -f1
 ```
 
 - Redirecting is about files
