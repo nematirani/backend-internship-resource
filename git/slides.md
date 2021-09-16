@@ -94,7 +94,7 @@ class: center, middle
 
 ---
 
-.thumb[![wtf is git](/img/1*Wf-pkRsSmuwo_Q5ckwAGFA.png)]
+.thumb[![wtf is git](/img/1Wf-pkRsSmuwo_Q5ckwAGFA.png)]
 
 ---
 
