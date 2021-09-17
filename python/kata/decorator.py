@@ -1,11 +1,11 @@
 def print_me(f):
     """ Implement decorator to print result of function """
-    def inner1(*args, **kwargs):
+    def inner(*args, **kwargs):
         a = f(*args, **kwargs)
          
         return a
          
-    return inner1
+    return inner
 
 @print_me
 def add(x, y):
