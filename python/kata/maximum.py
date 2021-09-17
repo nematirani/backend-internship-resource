@@ -7,7 +7,10 @@ def max_aggregate(score_list):
     for d in score_list:
         if c in d:
             return d
+<<<<<<< HEAD
 
+=======
+>>>>>>> master
 
 print(max_aggregate([
     ('Juan Whelan', 90), 
