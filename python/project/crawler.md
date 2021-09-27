@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="logo.png" alt="Logo" title="Please write me clean"/>
+  <img src="logo.png" alt="Logo" title="Please write me clean" width="250px"/>
 </p>
 
 
@@ -13,11 +13,11 @@ The point of this project is to become more familiar with the **principles of so
 
 
 ## Project Description
-What we want from you in this project is to extract the content of newegg.com products. We want you to do this project as a REST API with the Django framework. so we have an API that extracts the content we want from the product page by calling that API.
+What we want from you in this project is to extract the content of Newegg.com products. We want you to do this project as a REST API with the Django framework. so we have an API that extracts the content we want from the product page by calling that API.
 
 
 ## Implementation
-- Use virtualenv to handle your dependencies
+- Use Virtualenv to handle your dependencies
 - Use `Black (Python code formatter)` third-part package to clean your code on PEP 8 style
 - Use Django framework to implement REST API
 - Use MySQL database to persist product data
@@ -115,7 +115,7 @@ Example:
 
 
 ## Submission
-Create a **private Github repository** and Grant access to your mentor's account.
+Create a **private GitHub repository** and Grant access to your mentor's account.
 
 **Feel free to ask any question**
 
