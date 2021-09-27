@@ -31,9 +31,9 @@ What we want from you in this project is to extract the content of newegg.com pr
 
 
 ## Image Description
-1 - Title
-2 - Brand Name
-3 - Price and Discount
+- 1 - Title
+- 2 - Brand Name
+- 3 - Price and Discount
 Example:
 ```json
 {
@@ -43,9 +43,9 @@ Example:
     }
 }
 ```
-4 - Sold by
-5 - Shipped by
-6 - Rates
+- 4 - Sold by
+- 5 - Shipped by
+- 6 - Rates
 Example:
 ```json
 {
@@ -55,14 +55,14 @@ Example:
     }
 }
 ```
-7 - Image: Use `src` attribute from <img/> tag to get full image URL.
+- 7 - Image: Use `src` attribute from <img/> tag to get full image URL.
 Example:
 ```
 {
     "image": "https://c1.neweggimages.com/ProductImage/20-250-110-07.jpg"
 }
 ```
-8 - Questions and Answers
+- 8 - Questions and Answers
 Example:
 ```json
 {
@@ -71,7 +71,7 @@ Example:
     }
 }
 ```
-9 - Properties
+- 9 - Properties
 Example:
 ```json
 {
@@ -99,7 +99,7 @@ Example:
     }
 }
 ```
-10 - Features
+- 10 - Features
 Example:
 ```
 {
