@@ -1,7 +1,9 @@
 # The Crawler Project
 
 
-![alt text](logo.png "Please write me clean")
+<p align="center">
+  <img src="logo.png" alt="Logo" title="Please write me clean"/>
+</p>
 
 
 ## Project Goal
